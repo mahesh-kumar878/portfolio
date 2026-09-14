@@ -1,1 +1,1 @@
-A simple personal website create using HTML
+A simple personal Portfolio website create using HTML to showcase my skill , projects ,and profile.
